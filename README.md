@@ -1,6 +1,6 @@
 ### Hello, 
 
-I'm Cunha, Back-End developer, currently working at [Platform Builders](https://platformbuilders.io). Here is my personal [website](https://cunhazera.github.io/)
+I'm Cunha, Back-End developer, currently working at [...]. Here is my personal [website](https://cunhazera.github.io/)
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Gabriel%20da%20Cunha-blue)](https://www.linkedin.com/in/gabrieldcunha)
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-Gabriel%20da%20Cunha-red)](https://stackoverflow.com/users/5408236/gabriel-cunha)
